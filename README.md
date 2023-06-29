@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing beautiful user interfaces<br>I'm looking to collaborate on intriguing webpages using html and css<br>I'm looking for help with backend languages such as Python<br>I'm currently learning javascript<br>Ask me about html and css<br>Fun fact am lazy but smart<br>
+Hi there,<br>     Kamir is my name, a student with a background in frontend <br>development. Have always had passion in finding solutions<br>to the world's complex puzzles and through software engineering <br>it seems am finding my way.  <br><br>Apparently;<br>I'm currently working on developing beautiful user interfaces<br>I'm looking to collaborate on intriguing webpages using html and css<br>I'm looking for help with backend languages like Python<br>I'm currently learning javascript<br>Ask me about html and css<br>Fun fact am lazy but smart<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ I'm currently working on developing beautiful user interfaces<br>I'm looking to 
 ---
 [![](https://visitcount.itsvg.in/api?id=bassajjasubikamir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># kamir
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
